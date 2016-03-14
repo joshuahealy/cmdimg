@@ -1,0 +1,23 @@
+CmdImg End User License Agreement	
+
+Joshua Healy (the “licensor”) grants you (the “licensee”) a nonexclusive license to use CmdImg for personal and commercial use. The licensor retains all intellectual ownership of CmdImg.
+
+
+Usage
+
+You may redistribute an unmodified version of the CmdImg installer executable with a commercial or non-commercial application or library for the sole purpose of allowing end-users to run CmdImg. Redistribution for other purposes requires written permission from the licensor. 
+
+
+Collection of Information
+
+CmdImg does not collect any information of any kind.
+
+
+Disclaimer
+
+CmdImg is provided "as is" without any warranty of any kind, either expressed or implied. The licensor shall in no event be liable for any damages including, but not limited to, direct, indirect, special, incidental or consequential damages or other losses arising out of the use of or inability to use the product.
+
+
+CmdImg © Joshua Healy 2016
+
+All rights reserved
