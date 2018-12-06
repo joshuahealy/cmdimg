@@ -12,7 +12,7 @@
     <tags>cmdimg image command line admin</tags>
     <licenseUrl>https://github.com/joshuahealy/cmdimg/blob/master/licence.txt</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <iconUrl>https://cdn.rawgit.com/joshuahealy/cmdimg/master/Graphics/icon-256.png</iconUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/joshuahealy/cmdimg/Graphics/icon-256.png</iconUrl>
     <!-- need newer version of chocolatey to use these elements
     <projectSourceUrl>https://github.com/joshuahealy/cmdimg</projectSourceUrl>
     <packageSourceUrl>https://github.com/joshuahealy/cmdimg</packageSourceUrl>
